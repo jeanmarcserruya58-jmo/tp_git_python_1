@@ -1,4 +1,4 @@
-def ecrire(chaine):
-print(chaine)
-print("Hello world branche 2026!!!!!!!")
+def addition(a, b):
+return a + b
+print(addition(3, 5))
 
